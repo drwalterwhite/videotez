@@ -1,2 +1,2 @@
 # videotez
-Tez Çalışması Projesi
+Sorry about, this commit is wrongly :()
